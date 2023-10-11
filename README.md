@@ -7,6 +7,6 @@ The [**Punnett square**](https://en.wikipedia.org/wiki/Punnett_square) is a squa
 3. It fills in this DataFrame with all possible combinations of these gametes.
 4. It writes this DataFrame to an Excel file.
 
-### option
+### options
 - You can color Excel cells that have the same phenotypes.
-- Or, you can also calculate the phenotypic ratio.
+- You can also calculate the phenotypic ratio.
