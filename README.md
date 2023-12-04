@@ -4,7 +4,7 @@ The [**Punnett square**](https://en.wikipedia.org/wiki/Punnett_square) is a squa
 ## how does it work
 1. This script first prompts you to input number of crosses.
 2. It generates all possible allele combinations (gametes).
-3. And writes them to an Excel file.
+3. And writes them to an Excel file.
 
 ### options
 - You can color Excel cells that have the same phenotypes.
